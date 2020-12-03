@@ -1,0 +1,14 @@
+{
+    "name": "bidyanda/hello-world",
+    "authors": [
+        {
+            "name": "bidyanda"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
